@@ -6,7 +6,7 @@
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
   <p align="center">
-  	API para la consulta y almacenamiento de datos del proyecto PIF: [**Carro controlado mediante Giroscopio 🧭**](https://github.com/JuanesGalvis/pif_react_esp32 "**Carro controlado mediante Giroscopio 🧭**")
+  API para la consulta y almacenamiento de datos del proyecto PIF: <b><a href="https://github.com/JuanesGalvis/pif_react_esp32"> Carro controlado mediante Giroscopio 🧭 </a></b>
   </p>
 
 ## Description
