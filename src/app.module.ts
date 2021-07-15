@@ -7,7 +7,7 @@ import { RegistroModule } from './registro/registro.module';
 @Module({
   imports: [
     RegistroModule,
-    MongooseModule.forRoot('mongodb+srv://galvis:Lpm4WmLNDcaB0Cdp@pif.a2l1b.mongodb.net/myFirstDatabase?retryWrites=true&w=majority', {
+    MongooseModule.forRoot(process.env.MONGO, {
       useNewUrlParser: true
     })
   ],
